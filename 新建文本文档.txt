@@ -1,1 +1,6 @@
-1.初始化
+1.初始化  git init
+2.暂存区   git add -A
+3.提交  git commit -m“备注”
+
+生产ssh key： ssh-keygen -t rsa -C "你的邮箱"
+ 
